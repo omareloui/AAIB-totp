@@ -1,0 +1,17 @@
+# Generate a TOTP
+GET http://localhost:3000/auth/totp
+
+####
+
+# Verify
+POST http://localhost:3000/auth/totp/verify
+Content-Type: application/json
+
+{
+  "token": "091858"
+}
+
+###
+
+# Get the QRCode
+GET http://localhost:3000/auth/totp/qrcode?email=contact@omareloui.com

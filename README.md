@@ -8,4 +8,4 @@ has a large community.
 ## Helpful links
 
 - [OTP URI Format](https://github.com/google/google-authenticator/wiki/Key-Uri-Format)
-- [Implementing 2FA Using Speakeasy](https://blog.logrocket.com/implementing-two-factor-authentication-using speakeasy/)
+- [Implementing 2FA Using Speakeasy](https://blog.logrocket.com/implementing-two-factor-authentication-using-speakeasy/)
